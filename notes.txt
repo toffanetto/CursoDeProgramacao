@@ -2,5 +2,13 @@ Notas de Aula
 
 -------Aula 1 - 04/08/2020-------
 
+Ponteiro
 
+int* ponteiro;
+int num;
+ponteiro = &num;
+
+*ponteiro -> mostra o conteudo que o ponteiro aponta
+ponteiro -> mostra o endereco armazenado no ponteiro
+&ponteiro -> mostra o endereco que o ponteiro esta armazenado
 
