@@ -12,3 +12,16 @@ ponteiro = &num;
 ponteiro -> mostra o endereco armazenado no ponteiro
 &ponteiro -> mostra o endereco que o ponteiro esta armazenado
 
+
+-------Aula 3 - 11/08/2020-------
+
+Listas
+
+Conjunto de dados agregados. insert e delele no inicio, final ou meio. Ordenada ou nao.
+Qualquer elemento pode ser acessado.
+
+Vetores estaticos -> listas estaticas
+Vetores dinamicos -> listas dinamicas
+Listas encadeadas -> structs -> (valor, proximo_elemento) -> dinamicas
+Vector -> STL C++
+
