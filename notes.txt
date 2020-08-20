@@ -13,7 +13,7 @@ ponteiro -> mostra o endereco armazenado no ponteiro
 &ponteiro -> mostra o endereco que o ponteiro esta armazenado
 
 
--------Aula 3 - 11/08/2020-------
+-------Aula 4 - 11/08/2020-------
 
 Listas
 
